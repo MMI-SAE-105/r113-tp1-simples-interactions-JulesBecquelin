@@ -1,6 +1,6 @@
-- nom :
-- prénom :
-- URL Netlify :
+- nom :Becquelin    
+- prénom :Jules
+- URL Netlify :https://chipper-tanuki-dc429c.netlify.app/
 
 # Travail
 
